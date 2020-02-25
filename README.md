@@ -13,3 +13,5 @@ For batch implementation run:
 ```
 python exec_normal.py
 ```
+
+The mini-batch implementation of backpropagation step, runs 3.5 times faster than normal implementation.
